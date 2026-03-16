@@ -1,1 +1,1 @@
-print("Halo GitHub dari bungciming")
+print("Halo GitHub, bungciming")
